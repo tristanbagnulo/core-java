@@ -11,7 +11,7 @@ public class Main {
         System.out.println("Integer one: "+integer_one);
 
         //Now let's declare a new integer named "integer_two" and
-        //declate its value to be integer_one
+        //declare its value to be integer_one
         int integer_two = integer_one;
         System.out.println("Integer two: "+integer_two);
 
@@ -53,7 +53,7 @@ public class Main {
         //the handle remains the same but the value changes.
 
         //Although Strings are technically a reference type, the above rule does not
-        //seem to apply..
+        //seem to apply.
         String string_one = "First string";
         String string_two = string_one;
         System.out.println("String one: "+string_one);
